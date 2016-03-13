@@ -25,7 +25,7 @@ mvn compile
 The data files (in `data/tagged`) for Adam, Sarah, Eve, Naomi, Nina, Peter were downloaded
 from the [CHILDES database](http://childes.psy.cmu.edu/) (XML version).
 
-The were cleaned using `XMLCorpusCleaner` and tagged using the [Brill tagger](http://gposttl.sourceforge.net/).
+They were cleaned using `XMLCorpusCleaner` and tagged using the [Brill tagger](http://gposttl.sourceforge.net/).
 
 To execute the replication experiment simply run:
 ```
