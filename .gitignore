@@ -1,0 +1,9 @@
+## Maven Files
+/target
+
+## IntelliJ File
+*.iml
+/.idea
+
+## Result files
+*.csv
